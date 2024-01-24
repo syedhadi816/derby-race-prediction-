@@ -1,6 +1,9 @@
-# Derby Race Data Analysis
+# Derby Horse Race Prediction  
 
-> ## The motivation of this project is to decipher what makes the most positive impact. The goal is to create a model that makes use of race data, field conditions and jockey information to identify what impacts the final position of a horse in a race and how successfully can this outcome be modelled.
+> ## A model that makes use of race data, field conditions and jockey information to identify what impacts the final position of a horse in a race and how successfully can this outcome be modelled.
+
+![stats_horse_race](https://github.com/syedhadi816/derby-race-prediction-/assets/53166976/4a9d9b6f-6d5d-444a-a288-02cbce02792d)
+
 
 Strategy and decision making based on game environment is a critical component in modern athletics.
 Sports that involve animals, such as horse racing, are no different than human sport. Typically, efficiency
